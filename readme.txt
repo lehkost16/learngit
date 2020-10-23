@@ -6,5 +6,5 @@ Git is a free software.
 
 
 add  a newline             wait for a minute
-creating a new branch is quick.
+Creating a new branch is quick & simple.
 

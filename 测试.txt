@@ -1,0 +1,11 @@
+uiautomator 2定位
+
+
+
+
+
+
+ResourceId定位: d(resourceId=“com.miui.home:id/icon_title”).click()
+Text定位 d( text=u"音乐").click()
+Description定位 d(description="…").click()
+ClassName定位 d(className=“android.widget.TextView”).click()
